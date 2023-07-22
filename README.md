@@ -16,7 +16,7 @@ Olá, me chamo **Thaise**, sou estudante de Desenvolvimento Web 🚀 na Trybe em
 - 🤔 A área de tecnologia me atrai pela motivação para estudar continuamente e pela liberdade geográfica;
 - 💬 Pode me perguntar o que quiser, ficarei feliz em ajudar;
 - 📫 Para falar comigo, por favor, envie email para lpthaise@gmail.com;
-- 📝 Veja meu Curriculum Vitae <a href="[https://github.com/ARRUMAR_URL](https://github.com/ThaiseSancier/ThaiseSancier/blob/main/CV%20Resume%20Thaise%20Sancier.pdf)" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Curriculum Vitae <a href="https://github.com/ThaiseSancier/ThaiseSancier/blob/main/CV%20Resume%20Thaise%20Sancier.pdf" target="_blank">clicando aqui</a> para mais informações.
 
 
 **Linguagens e Ferramentas**  
